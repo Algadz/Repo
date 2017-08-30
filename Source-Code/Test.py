@@ -4,4 +4,5 @@
 
 #This is an addon made on Branch Essai1
 
-print(hello world)
+if 1<2 :
+    print("ok")
